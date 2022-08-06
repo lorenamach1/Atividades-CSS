@@ -1,0 +1,13 @@
+.color{
+    background-color: rgb(206, 173, 173);
+    
+    column-span: all;
+}
+
+body {
+    text-align: justify;
+    columns: 3;
+    column-gap: 5%;
+    column-rule: 3px dashed aquamarine ;
+  
+}
